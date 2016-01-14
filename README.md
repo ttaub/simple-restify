@@ -10,7 +10,7 @@ Hassle free server creation. No point in recreating the same thing when we can h
 
 Everything is created using the builder object. In order to use the builder object you should require common-server:
 
-     var Builder = require( 'common-server' );
+     var Builder = require( 'simple-restify' );
 
 The Builder object has 3 functions:
 
